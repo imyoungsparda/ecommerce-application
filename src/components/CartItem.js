@@ -1,4 +1,3 @@
-import { useState } from "react";
 import FormatPrice from "../Helpers/FormatPrice";
 import CartAmountToggle from "./CartAmountToggle";
 import { FaTrash } from "react-icons/fa";
